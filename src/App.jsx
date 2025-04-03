@@ -8,6 +8,7 @@ import Review from './components/Review'
 import Contact from './components/Contact'
 import Blogs from './components/Blogs'
 import Footer from './components/footer'
+import './assets/css/style.css'
 function App() {
   return (
     <div>
