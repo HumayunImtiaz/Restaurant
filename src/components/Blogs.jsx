@@ -1,5 +1,6 @@
 import React from 'react'
 import { blog } from '../Data'
+import './Blogs.css'
 function Blogs() {
   return (
      <section className='blogs' id='blog'>

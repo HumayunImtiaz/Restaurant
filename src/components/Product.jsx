@@ -1,9 +1,9 @@
 import React from 'react'
 import { product } from '../Data'
-import '../assets/css/style.css'
+// import '../assets/css/style.css'
 import { FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import { faEye, faHeart, faShoppingCart, faStar, faStarHalf, faStarHalfAlt } from '@fortawesome/free-solid-svg-icons';
-
+import './Products.css'
 function Product() {
   return (
     <section className='products' id='products'>

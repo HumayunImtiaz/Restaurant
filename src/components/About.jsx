@@ -1,5 +1,6 @@
 import React from 'react'
 import aboutImg from '../assets/images/about-img.png'
+import './About.css'
 
 function About() {
   return (

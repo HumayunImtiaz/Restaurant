@@ -1,6 +1,7 @@
 import React from 'react'
 import { FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import { faEnvelope, faM, faMailBulk, faMailForward, faMailReply, faPhone, faUser } from '@fortawesome/free-solid-svg-icons';
+import './Contact.css'
 function Contact() {
   return (
     <section className='contact' id='contact'>

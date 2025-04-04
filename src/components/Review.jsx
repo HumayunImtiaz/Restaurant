@@ -3,6 +3,7 @@ import { review } from '../Data'
 import hello from '../assets/images/hello.png'
 import { faStar, faStarHalfAlt } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import './Review.css'
 function Review() {
   return (
     <section className='review' id='review'>
